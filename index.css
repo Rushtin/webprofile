@@ -1,0 +1,92 @@
+*{
+	font-family: "Open Sans";
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+.pic1{
+	width: 50px;
+	height: 50px;
+}
+
+#brand{
+	background-color: #41227F;
+	border-color: black;
+	border-width: 2px;
+}
+
+#rand{
+	color: white;
+
+}
+
+#class{
+	background-color: #250B65;
+}
+
+#bg-image{
+	min-height: 40vh;
+	background-image: url("./images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	margin-bottom: 64px;
+}
+
+#bg-image1{
+	min-height: 40vh;
+	/*background-image: url("./images/background1.jpg");*/
+	background-color: #41227F;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	margin-bottom: 64px;
+}
+
+#emailaddress{
+	page-break-after: always;
+}
+
+#borderx{
+	border-color: black;
+	border-width: 2px;
+
+
+}
+
+#pre-footer{
+	background-color: #41227F;
+	color: white;
+	padding-right: 20vw;
+	vertical-align: top;
+	margin-top: 1rem;
+}
+
+#pre-footer div{
+	width: 24%;
+	display: inline-block;
+	padding-left: 0.5rem;
+	vertical-align: bottom;
+	padding-bottom: 0.5rem;
+	margin-top: 1rem;
+}
+
+.borderx{
+	border-style: solid;
+	border-color: #41227F;
+}
+
+#bordery{
+	border-style: solid;
+	border-color: #41227F;
+}
+
+#borderz{
+	border-style: solid;
+	border-color: #41227F;
+	background-color: #41227F;
+}
+
+/*border border-dark bg-dark*/
